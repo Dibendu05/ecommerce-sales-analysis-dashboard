@@ -36,6 +36,21 @@ The dashboard analyzes over 55,000 sales records and provides insights into sale
 ![Detailed Analysis](Screenshots/Page%202.png)
 
 
+## Key Insights
+
+* Electronics generated the highest sales.
+* Credit Card was the most used purchase method.
+* The 25–45 age group contributed the highest revenue.
+* Mumbai and Delhi showed the strongest sales performance.
+* Sales reached their peak in 2023.
+
+## Files Included
+
+* Internship project.pbix
+* E-Commerce Sales Analysis Dashboard.csv
+* Dashboard Screenshots
+
+
 ## Objective
 
 To analyze e-commerce sales data and generate actionable business insights through interactive Power BI visualizations.
@@ -66,19 +81,6 @@ To analyze e-commerce sales data and generate actionable business insights throu
 * Sales showed a steady increase from 2019 to 2023.
 
 
-## Key Insights
-
-* Electronics generated the highest sales.
-* Credit Card was the most used purchase method.
-* The 25–45 age group contributed the highest revenue.
-* Mumbai and Delhi showed the strongest sales performance.
-* Sales reached their peak in 2023.
-
-## Files Included
-
-* Internship project.pbix
-* E-Commerce Sales Analysis Dashboard.csv
-* Dashboard Screenshots
 
 ## Author
 
