@@ -29,11 +29,11 @@ The dashboard analyzes over 55,000 sales records and provides insights into sale
 
 ### Main Dashboard
 
-(Upload your dashboard screenshot here)
+![Main Dashboard](Screenshots/Page1.png)
 
 ### Detailed Analysis
 
-(Upload your second dashboard screenshot here)
+![Detailed Analysis](Screenshots/Page2.png)
 
 ## Key Insights
 
