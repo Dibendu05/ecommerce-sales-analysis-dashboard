@@ -35,6 +35,37 @@ The dashboard analyzes over 55,000 sales records and provides insights into sale
 
 ![Detailed Analysis](Screenshots/Page%202.png)
 
+
+## Objective
+
+To analyze e-commerce sales data and generate actionable business insights through interactive Power BI visualizations.
+
+## Dashboard Features
+
+* Interactive slicers and filters
+* Sales trend analysis
+* Product category analysis
+* Location-wise sales analysis
+* Age group analysis
+* Gender analysis
+* Purchase method analysis
+
+## DAX Measures Used
+
+* Total Sales
+* Total Gross Revenue
+* Total Discount Amount
+* Total Orders
+
+## Key Business Insights
+
+* Electronics generated the highest sales among all product categories.
+* Credit Card was the most preferred purchase method.
+* Customers aged 25–45 contributed the highest sales.
+* Mumbai and Delhi recorded the strongest sales performance.
+* Sales showed a steady increase from 2019 to 2023.
+
+
 ## Key Insights
 
 * Electronics generated the highest sales.
