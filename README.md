@@ -55,15 +55,6 @@ The dashboard analyzes over 55,000 sales records and provides insights into sale
 
 To analyze e-commerce sales data and generate actionable business insights through interactive Power BI visualizations.
 
-## Dashboard Features
-
-* Interactive slicers and filters
-* Sales trend analysis
-* Product category analysis
-* Location-wise sales analysis
-* Age group analysis
-* Gender analysis
-* Purchase method analysis
 
 ## DAX Measures Used
 
